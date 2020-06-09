@@ -6,5 +6,5 @@ Classe utilizada neste projeto
 
 |  Carro  |
 | --------|
-| + cor <br> + numeroPortas  
+| + cor <br> + numeroPortas  |
 | + acelerar   |
